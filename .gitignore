@@ -1,0 +1,5 @@
+node_modules
+yarn-error.log
+src/static/certs/*.pfx
+src/static/certs/*.pem
+_deprecated_*
